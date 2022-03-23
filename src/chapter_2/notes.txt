@@ -1,2 +1,5 @@
 
-this is notes everybody need to read carefully!
+this is notes everybody needs to read carefully!
+
+more fun
+more java
